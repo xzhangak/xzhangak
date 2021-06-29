@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Xinxian
 - 👀 I’m interested in statistical data analyses and programs (R and SAS). 
-My topics incude inseason and preseason salmon run forecasts, population genetic data anlyses, Bayesian stock-recruiment analyses, surplus production models, and mark-recapture.
+My topics incude inseason and preseason salmon run forecasts, population genetic data analyses, Bayesian stock-recruiment analyses, surplus production models, and mark-recapture.
 - 🌱 I’m currently learning ...Git and Github
-- 💞️ I’m looking to collaborate on those who share the common insterests. 
+- 💞️ I’m looking to collaborate on people who share the common insterests. 
 - 📫 How to reach me ...email: xinxian.zhang@alaska.gov OR xinxian_zhang@yahoo.com
 
 <!---
